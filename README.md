@@ -60,20 +60,6 @@ graph TD
     F --> G[Report Generation]
 ```
 
-## 🎥 Demo
-
-Experience our solution in action through our comprehensive demo videos:
-
-- [Setup and Configuration Demo](https://github.com/Susanta2102/NLP-GROUP-PROJECT/blob/main/Demo%20Video%20to%20run%20the%20script.mp4)
-  - Complete installation walkthrough
-  - System configuration guide
-  - Basic usage tutorial
-
-- [Feature Walkthrough](https://github.com/Susanta2102/NLP-GROUP-PROJECT/blob/main/Demo.mp4)
-  - Advanced features demonstration
-  - Real-world use cases
-  - Best practices guide
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -131,25 +117,25 @@ streamlit run main.py
 
 ### Compliance Report View
 <div align="center">
-  <img src="https://github.com/Susanta2102/NLP-GROUP-PROJECT/raw/main/1.png" alt="Compliance Report" width="800"/>
+  <img src="https://github.com/Ayuu10/GDPR_compliance_checker/blob/main/1.png" alt="Compliance Report" width="800"/>
   <p><em>Comprehensive compliance analysis dashboard showing key metrics and findings</em></p>
 </div>
 
 ### Main Interface
 <div align="center">
-  <img src="https://github.com/Susanta2102/NLP-GROUP-PROJECT/raw/main/2.png" alt="Streamlit Interface" width="800"/>
+  <img src="https://github.com/Ayuu10/GDPR_compliance_checker/blob/main/2.png" alt="Streamlit Interface" width="800"/>
   <p><em>User-friendly interface for document upload and analysis configuration</em></p>
 </div>
 
 ### Analysis Dashboard
 <div align="center">
-  <img src="https://github.com/Susanta2102/NLP-GROUP-PROJECT/raw/main/3.png" alt="Analysis Dashboard" width="800"/>
+  <img src="https://github.com/Ayuu10/GDPR_compliance_checker/blob/main/3.png" alt="Analysis Dashboard" width="800"/>
   <p><em>Interactive dashboard showing detailed compliance metrics and trends</em></p>
 </div>
 
 ### Results Overview
 <div align="center">
-  <img src="https://github.com/Susanta2102/NLP-GROUP-PROJECT/raw/main/4.png" alt="Results View" width="800"/>
+  <img src="https://github.com/Ayuu10/GDPR_compliance_checker/blob/main/4.png" alt="Results View" width="800"/>
   <p><em>Detailed view of compliance results with actionable insights</em></p>
 </div>
 
@@ -157,29 +143,20 @@ streamlit run main.py
 
 Our dedicated team of developers and researchers:
 
-| Name | Email | Role | Responsibilities |
-|------|--------|------|-----------------|
-| Susanta Baidya | msa23009@iiitl.ac.in | Team Lead | Project coordination, Architecture design |
-| Anjali Tamta | msa23026@iiitl.ac.in | NLP Implementation | Model development, Algorithm optimization |
-| Vikrant Kumar | msa23016@iiitl.ac.in | Backend Developer | API development, Database management |
-| Akanksha Kumari | msa23003@iiitl.ac.in | UI/UX Designer | Interface design, User experience |
-| Sapna Kumari | msa23001@iiitl.ac.in | Data Science | Data analysis, Model training |
+| Name | Email | Role |
+|------|--------|------|
+| M Naveen | mnaveen.btech23@rvu.edu.in | Scrum Master, Architect Designer |
+| Ayush R | ayushr.btech23@rvu.edu.in | ML Engineer |
+| Sudeepa R | sudeepar.btech23@rvu.edu.in | Backend Developer |
+| Manjunath L | manjunathl.btech23@rvu.edu.in | UI/UX Designer, Tester |
 
-
-## 📮 Contact
-
-For support or queries, please contact:
-- Project Lead: SusantA Baidya (msa23009@iiitl.ac.in)
-- Technical Support: susantabaidya20133@gmail.com
 
 ## 🙏 Acknowledgments
 
-- IIIT Lucknow for their support and resources
+- Prof CVSN Reddy
 - The open-source NLP community
-- All contributors and testers
 
 ---
 <div align="center">
-  <p>Made with ❤️ by the Security Policy Automation Team</p>
-  <p>© 2024 NLP Compliance Project. All rights reserved.</p>
+  <p>© 2025 NLP Compliance Project. All rights reserved.</p>
 </div>
