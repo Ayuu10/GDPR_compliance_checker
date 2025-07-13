@@ -78,8 +78,9 @@ NLTK
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Susanta2102/NLP-GROUP-PROJECT
-cd NLP-GROUP-PROJECT
+git clone https://github.com/Ayuu10/GDPR_compliance_checker.git
+cd GDPR_compliance_checker
+
 ```
 
 2. **Create Virtual Environment (Recommended)**
@@ -145,8 +146,8 @@ Our dedicated team of developers and researchers:
 
 | Name | Email | Role |
 |------|--------|------|
-| M Naveen | mnaveen.btech23@rvu.edu.in | Scrum Master, Architect Designer |
-| Ayush R | ayushr.btech23@rvu.edu.in | ML Engineer |
+| Ayush R | ayushr.btech23@rvu.edu.in | Team Lead, ML Engineer |
+| M Naveen | mnaveen.btech23@rvu.edu.in | DevOps Engineer, Architect Designer |
 | Sudeepa R | sudeepar.btech23@rvu.edu.in | Backend Developer |
 | Manjunath L | manjunathl.btech23@rvu.edu.in | UI/UX Designer, Tester |
 
